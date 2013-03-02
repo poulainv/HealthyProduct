@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://subversion.assembla.com/svn/healthyproduct"
+   name=""
+   revision="67"
+   last-author="vpoulain"
+   uuid="a35957e5-eb71-4bc1-af2d-79585cc7c74f"
+   url="http://subversion.assembla.com/svn/healthyproduct/trunk/src/com/hp/client/resource"
+   committed-rev="53"
+   kind="dir"
+   committed-date="2012-06-06T22:16:09.586368Z"/>
+<entry
+   name="Commentaire.java"
+   checksum="e4292b6b139ea1a410a184c3be8b0757"
+   last-author="vpoulain"
+   committed-rev="34"
+   text-time="2012-05-27T08:47:12.000000Z"
+   kind="file"
+   committed-date="2012-05-28T17:50:56.700000Z"/>
+<entry
+   name="Constants.java"
+   checksum="d9ab192930c1b3cc6ce97d5ac5a8e38b"
+   last-author="Lisional"
+   text-time="2012-05-20T18:45:51.000000Z"
+   committed-rev="26"
+   kind="file"
+   committed-date="2012-05-20T18:45:51.639560Z"/>
+<entry
+   name="Information.java"
+   checksum="743438642a78b7d90bf4df67f3aeb487"
+   last-author="vpoulain"
+   committed-rev="53"
+   text-time="2012-06-06T21:34:30.000000Z"
+   kind="file"
+   committed-date="2012-06-06T22:16:09.586000Z"/>
+<entry
+   name="Ingredient.java"
+   revision="68"
+   checksum="ef19327e3b3723819b36b6ed46158e6d"
+   last-author="vpoulain"
+   committed-rev="68"
+   text-time="2012-06-13T21:12:40.000000Z"
+   kind="file"
+   committed-date="2012-06-13T21:25:04.886000Z"/>
+<entry
+   name="Label.java"
+   checksum="252b3ee6019721471621b2176fb396fb"
+   last-author="Lisional"
+   committed-rev="27"
+   text-time="2012-05-20T18:48:14.000000Z"
+   kind="file"
+   committed-date="2012-05-20T18:48:14.132527Z"/>
+<entry
+   name="Produit.java"
+   revision="68"
+   checksum="54ab8f458e9b7d627de6af8e9b9976d3"
+   last-author="vpoulain"
+   text-time="2012-06-13T21:18:25.000000Z"
+   committed-rev="68"
+   kind="file"
+   committed-date="2012-06-13T21:25:04.886000Z"/>
+<entry
+   name="User.java"
+   checksum="c6d63c541839f3fe48e5f39a7206d8ca"
+   last-author="Lisional"
+   text-time="2012-05-20T18:48:14.000000Z"
+   committed-rev="27"
+   kind="file"
+   committed-date="2012-05-20T18:48:14.132527Z"/>
+</wc-entries>

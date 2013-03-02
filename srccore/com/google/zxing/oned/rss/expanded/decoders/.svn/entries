@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://subversion.assembla.com/svn/healthyproduct"
+   name=""
+   revision="32"
+   last-author="maxoudela"
+   url="http://subversion.assembla.com/svn/healthyproduct/trunk/srccore/com/google/zxing/oned/rss/expanded/decoders"
+   uuid="a35957e5-eb71-4bc1-af2d-79585cc7c74f"
+   committed-rev="32"
+   kind="dir"
+   committed-date="2012-05-21T13:28:57.504689Z"/>
+<entry
+   name="AI013103decoder.java"
+   checksum="5a5a33d336786e0a391a41ee29d298de"
+   last-author="maxoudela"
+   committed-rev="32"
+   text-time="2012-05-21T13:28:57.000000Z"
+   kind="file"
+   committed-date="2012-05-21T13:28:57.504689Z"/>
+<entry
+   name="AI01320xDecoder.java"
+   checksum="0497e5799acc515b23a4f097ae399eed"
+   last-author="maxoudela"
+   committed-rev="32"
+   text-time="2012-05-21T13:28:57.000000Z"
+   kind="file"
+   committed-date="2012-05-21T13:28:57.504689Z"/>
+<entry
+   name="AI01392xDecoder.java"
+   checksum="dc5b00388ea9b8e834012f2e963b6e6f"
+   last-author="maxoudela"
+   committed-rev="32"
+   text-time="2012-05-21T13:28:57.000000Z"
+   kind="file"
+   committed-date="2012-05-21T13:28:57.504689Z"/>
+<entry
+   name="AI01393xDecoder.java"
+   checksum="845bf3d1e2913fa39a7ae9d1f6e25f01"
+   last-author="maxoudela"
+   committed-rev="32"
+   text-time="2012-05-21T13:28:57.000000Z"
+   kind="file"
+   committed-date="2012-05-21T13:28:57.504689Z"/>
+<entry
+   name="AI013x0x1xDecoder.java"
+   checksum="ff2846f406c8485383b5376a7f1b6921"
+   last-author="maxoudela"
+   committed-rev="32"
+   text-time="2012-05-21T13:28:57.000000Z"
+   kind="file"
+   committed-date="2012-05-21T13:28:57.504689Z"/>
+<entry
+   name="AI013x0xDecoder.java"
+   checksum="5e1cca30edb3675ac1861bd4182abd3e"
+   last-author="maxoudela"
+   committed-rev="32"
+   text-time="2012-05-21T13:28:57.000000Z"
+   kind="file"
+   committed-date="2012-05-21T13:28:57.504689Z"/>
+<entry
+   name="AI01AndOtherAIs.java"
+   checksum="326151d4df177f11aeb3986845e5dc1c"
+   last-author="maxoudela"
+   committed-rev="32"
+   text-time="2012-05-21T13:28:57.000000Z"
+   kind="file"
+   committed-date="2012-05-21T13:28:57.504689Z"/>
+<entry
+   name="AI01decoder.java"
+   checksum="f42141a64c20daf5add7fc8f534dab77"
+   last-author="maxoudela"
+   committed-rev="32"
+   text-time="2012-05-21T13:28:57.000000Z"
+   kind="file"
+   committed-date="2012-05-21T13:28:57.504689Z"/>
+<entry
+   name="AI01weightDecoder.java"
+   checksum="3f1508858b4e6b1494755a3f47dd8e86"
+   last-author="maxoudela"
+   committed-rev="32"
+   text-time="2012-05-21T13:28:57.000000Z"
+   kind="file"
+   committed-date="2012-05-21T13:28:57.504689Z"/>
+<entry
+   name="AbstractExpandedDecoder.java"
+   checksum="ba3ad1bd3374146f70c3c5362e1279d9"
+   last-author="maxoudela"
+   committed-rev="32"
+   text-time="2012-05-21T13:28:57.000000Z"
+   kind="file"
+   committed-date="2012-05-21T13:28:57.504689Z"/>
+<entry
+   name="AnyAIDecoder.java"
+   checksum="68b0ff8d4f0ee74dc58cf6ea02fc5090"
+   last-author="maxoudela"
+   committed-rev="32"
+   text-time="2012-05-21T13:28:57.000000Z"
+   kind="file"
+   committed-date="2012-05-21T13:28:57.504689Z"/>
+<entry
+   name="BlockParsedResult.java"
+   checksum="a9a9b5826cb6a0a05c6ecf58cfac16da"
+   last-author="maxoudela"
+   committed-rev="32"
+   text-time="2012-05-21T13:28:57.000000Z"
+   kind="file"
+   committed-date="2012-05-21T13:28:57.504689Z"/>
+<entry
+   name="CurrentParsingState.java"
+   checksum="6d86b71154283686bc0882993c1e46a1"
+   last-author="maxoudela"
+   committed-rev="32"
+   text-time="2012-05-21T13:28:57.000000Z"
+   kind="file"
+   committed-date="2012-05-21T13:28:57.504689Z"/>
+<entry
+   name="DecodedChar.java"
+   checksum="520299c912a2fd7317ec8d7082658e6d"
+   last-author="maxoudela"
+   committed-rev="32"
+   text-time="2012-05-21T13:28:57.000000Z"
+   kind="file"
+   committed-date="2012-05-21T13:28:57.504689Z"/>
+<entry
+   name="DecodedInformation.java"
+   checksum="9244fb3da853b56c978d8688f0f4b018"
+   last-author="maxoudela"
+   committed-rev="32"
+   text-time="2012-05-21T13:28:57.000000Z"
+   kind="file"
+   committed-date="2012-05-21T13:28:57.504689Z"/>
+<entry
+   name="DecodedNumeric.java"
+   checksum="c6daae93d46beef4b7021738430a4656"
+   last-author="maxoudela"
+   committed-rev="32"
+   text-time="2012-05-21T13:28:57.000000Z"
+   kind="file"
+   committed-date="2012-05-21T13:28:57.504689Z"/>
+<entry
+   name="DecodedObject.java"
+   checksum="183e8f96f0166639e9b0b35a40473cb0"
+   last-author="maxoudela"
+   committed-rev="32"
+   text-time="2012-05-21T13:28:57.000000Z"
+   kind="file"
+   committed-date="2012-05-21T13:28:57.504689Z"/>
+<entry
+   name="FieldParser.java"
+   checksum="9be81a779a067415a364888008df3c67"
+   last-author="maxoudela"
+   committed-rev="32"
+   text-time="2012-05-21T13:28:57.000000Z"
+   kind="file"
+   committed-date="2012-05-21T13:28:57.504689Z"/>
+<entry
+   name="GeneralAppIdDecoder.java"
+   checksum="9509ed25494c9043d2b214b6426012eb"
+   last-author="maxoudela"
+   committed-rev="32"
+   text-time="2012-05-21T13:28:57.000000Z"
+   kind="file"
+   committed-date="2012-05-21T13:28:57.504689Z"/>
+</wc-entries>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://subversion.assembla.com/svn/healthyproduct"
+   name=""
+   revision="32"
+   last-author="maxoudela"
+   url="http://subversion.assembla.com/svn/healthyproduct/trunk/srccore/com/google/zxing/common"
+   uuid="a35957e5-eb71-4bc1-af2d-79585cc7c74f"
+   committed-rev="32"
+   kind="dir"
+   committed-date="2012-05-21T13:28:57.504689Z"/>
+<entry
+   name="BitArray.java"
+   checksum="db3e7fbd227f69c791829a68482729f2"
+   last-author="maxoudela"
+   committed-rev="32"
+   text-time="2012-05-21T13:28:57.000000Z"
+   kind="file"
+   committed-date="2012-05-21T13:28:57.504689Z"/>
+<entry
+   name="BitMatrix.java"
+   checksum="ed75285c9a741c816343db1431378fd8"
+   last-author="maxoudela"
+   committed-rev="32"
+   text-time="2012-05-21T13:28:57.000000Z"
+   kind="file"
+   committed-date="2012-05-21T13:28:57.504689Z"/>
+<entry
+   name="BitSource.java"
+   checksum="4c4986e9ce00b1c1f9b8636e807da29d"
+   last-author="maxoudela"
+   committed-rev="32"
+   text-time="2012-05-21T13:28:57.000000Z"
+   kind="file"
+   committed-date="2012-05-21T13:28:57.504689Z"/>
+<entry
+   name="CharacterSetECI.java"
+   checksum="e1e9ad1b2fb03191cab598a33394dd31"
+   last-author="maxoudela"
+   committed-rev="32"
+   text-time="2012-05-21T13:28:57.000000Z"
+   kind="file"
+   committed-date="2012-05-21T13:28:57.504689Z"/>
+<entry
+   name="DecoderResult.java"
+   checksum="2d578ee6d16502155afec23ac100d2b3"
+   last-author="maxoudela"
+   committed-rev="32"
+   text-time="2012-05-21T13:28:57.000000Z"
+   kind="file"
+   committed-date="2012-05-21T13:28:57.504689Z"/>
+<entry
+   name="DefaultGridSampler.java"
+   checksum="62be1be6b2fb3d14ebecc184d0757167"
+   last-author="maxoudela"
+   committed-rev="32"
+   text-time="2012-05-21T13:28:57.000000Z"
+   kind="file"
+   committed-date="2012-05-21T13:28:57.504689Z"/>
+<entry
+   name="DetectorResult.java"
+   checksum="53a726e200ecf5366ca20c5fbd41a5ef"
+   last-author="maxoudela"
+   committed-rev="32"
+   text-time="2012-05-21T13:28:57.000000Z"
+   kind="file"
+   committed-date="2012-05-21T13:28:57.504689Z"/>
+<entry
+   name="GlobalHistogramBinarizer.java"
+   checksum="b630c465cd4c4f003b19d0a17b8b1cc0"
+   last-author="maxoudela"
+   committed-rev="32"
+   text-time="2012-05-21T13:28:57.000000Z"
+   kind="file"
+   committed-date="2012-05-21T13:28:57.504689Z"/>
+<entry
+   name="GridSampler.java"
+   checksum="d3fb7ab039d32ea0843f158097cb4cb7"
+   last-author="maxoudela"
+   committed-rev="32"
+   text-time="2012-05-21T13:28:57.000000Z"
+   kind="file"
+   committed-date="2012-05-21T13:28:57.504689Z"/>
+<entry
+   name="HybridBinarizer.java"
+   checksum="ba4724c9047327b7ebd0e25f34d91116"
+   last-author="maxoudela"
+   committed-rev="32"
+   text-time="2012-05-21T13:28:57.000000Z"
+   kind="file"
+   committed-date="2012-05-21T13:28:57.504689Z"/>
+<entry
+   name="PerspectiveTransform.java"
+   checksum="58084b07dc64c778042dfcb34d531203"
+   last-author="maxoudela"
+   committed-rev="32"
+   text-time="2012-05-21T13:28:57.000000Z"
+   kind="file"
+   committed-date="2012-05-21T13:28:57.504689Z"/>
+<entry
+   name="StringUtils.java"
+   checksum="8ea240488f8885232a6aabe943b550fb"
+   last-author="maxoudela"
+   committed-rev="32"
+   text-time="2012-05-21T13:28:57.000000Z"
+   kind="file"
+   committed-date="2012-05-21T13:28:57.504689Z"/>
+<entry
+   name="detector"
+   kind="dir"/>
+<entry
+   name="reedsolomon"
+   kind="dir"/>
+</wc-entries>

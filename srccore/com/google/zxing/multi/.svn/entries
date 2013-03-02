@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://subversion.assembla.com/svn/healthyproduct"
+   name=""
+   revision="32"
+   last-author="maxoudela"
+   url="http://subversion.assembla.com/svn/healthyproduct/trunk/srccore/com/google/zxing/multi"
+   uuid="a35957e5-eb71-4bc1-af2d-79585cc7c74f"
+   committed-rev="32"
+   kind="dir"
+   committed-date="2012-05-21T13:28:57.504689Z"/>
+<entry
+   name="ByQuadrantReader.java"
+   checksum="2ceeb7f357116a4df1e694f68449ad98"
+   last-author="maxoudela"
+   committed-rev="32"
+   text-time="2012-05-21T13:28:57.000000Z"
+   kind="file"
+   committed-date="2012-05-21T13:28:57.504689Z"/>
+<entry
+   name="GenericMultipleBarcodeReader.java"
+   checksum="646960cccf1cb96f796d0b79b568c7a4"
+   last-author="maxoudela"
+   committed-rev="32"
+   text-time="2012-05-21T13:28:57.000000Z"
+   kind="file"
+   committed-date="2012-05-21T13:28:57.504689Z"/>
+<entry
+   name="MultipleBarcodeReader.java"
+   checksum="e081b955797a644d039e0fc261dbf8f0"
+   last-author="maxoudela"
+   committed-rev="32"
+   text-time="2012-05-21T13:28:57.000000Z"
+   kind="file"
+   committed-date="2012-05-21T13:28:57.504689Z"/>
+<entry
+   name="qrcode"
+   kind="dir"/>
+</wc-entries>

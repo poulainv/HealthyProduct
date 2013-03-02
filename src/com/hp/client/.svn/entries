@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://subversion.assembla.com/svn/healthyproduct"
+   name=""
+   revision="67"
+   last-author="Lisional"
+   url="http://subversion.assembla.com/svn/healthyproduct/trunk/src/com/hp/client"
+   uuid="a35957e5-eb71-4bc1-af2d-79585cc7c74f"
+   committed-rev="67"
+   kind="dir"
+   committed-date="2012-06-13T21:20:35.636794Z"/>
+<entry
+   name="FirstUseActivity.java"
+   checksum="6f3bac5e6328df6b529fa8078ed7019b"
+   last-author="Lisional"
+   committed-rev="66"
+   text-time="2012-06-13T20:29:28.000000Z"
+   kind="file"
+   committed-date="2012-06-13T20:29:28.980591Z"/>
+<entry
+   name="HealthyProductsActivity.java"
+   checksum="662ab12e943ab73c375a72dd111077f7"
+   last-author="Lisional"
+   committed-rev="67"
+   text-time="2012-06-13T21:20:35.000000Z"
+   kind="file"
+   committed-date="2012-06-13T21:20:35.636794Z"/>
+<entry
+   name="HistoryActivity.java"
+   checksum="fe79ffe35ffec54a447fa4a629c014d9"
+   last-author="vpoulain"
+   text-time="2012-06-07T15:10:36.000000Z"
+   committed-rev="60"
+   kind="file"
+   committed-date="2012-06-09T22:51:32.700000Z"/>
+<entry
+   name="OptionsActivity.java"
+   checksum="c91d36c6ae471fcc54f30a035342aac1"
+   last-author="Lisional"
+   committed-rev="67"
+   text-time="2012-06-13T21:20:35.000000Z"
+   kind="file"
+   committed-date="2012-06-13T21:20:35.636794Z"/>
+<entry
+   name="ProductChecker.java"
+   checksum="6768f292614ca632ac43c96fc79d9de4"
+   last-author="Lisional"
+   committed-rev="46"
+   text-time="2012-06-03T17:18:57.000000Z"
+   kind="file"
+   committed-date="2012-06-03T17:18:57.242756Z"/>
+<entry
+   name="ScannerActivity.java"
+   checksum="33533eb9d3c9a33ecea24758132f9d20"
+   last-author="Lisional"
+   committed-rev="66"
+   text-time="2012-06-13T20:29:28.000000Z"
+   kind="file"
+   committed-date="2012-06-13T20:29:28.980591Z"/>
+<entry
+   name="SplashScreenActivity.java"
+   checksum="48e559f2280ff34303a07d360a7f4d8f"
+   last-author="Lisional"
+   text-time="2012-06-03T13:32:20.000000Z"
+   committed-rev="42"
+   kind="file"
+   committed-date="2012-06-03T13:32:20.287800Z"/>
+<entry
+   name="dao"
+   kind="dir"/>
+<entry
+   name="db"
+   kind="dir"/>
+<entry
+   name="fragments"
+   kind="dir"/>
+<entry
+   name="resource"
+   kind="dir"/>
+</wc-entries>

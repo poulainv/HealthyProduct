@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://subversion.assembla.com/svn/healthyproduct"
+   name=""
+   revision="32"
+   last-author="maxoudela"
+   url="http://subversion.assembla.com/svn/healthyproduct/trunk/srccore/com/google/zxing/datamatrix/decoder"
+   uuid="a35957e5-eb71-4bc1-af2d-79585cc7c74f"
+   committed-rev="32"
+   kind="dir"
+   committed-date="2012-05-21T13:28:57.504689Z"/>
+<entry
+   name="BitMatrixParser.java"
+   checksum="0527649b92ab1cfad6cd3ad186545bb0"
+   last-author="maxoudela"
+   committed-rev="32"
+   text-time="2012-05-21T13:28:57.000000Z"
+   kind="file"
+   committed-date="2012-05-21T13:28:57.504689Z"/>
+<entry
+   name="DataBlock.java"
+   checksum="461b3a610d09413a5ca0f5d1551bb733"
+   last-author="maxoudela"
+   committed-rev="32"
+   text-time="2012-05-21T13:28:57.000000Z"
+   kind="file"
+   committed-date="2012-05-21T13:28:57.504689Z"/>
+<entry
+   name="DecodedBitStreamParser.java"
+   checksum="615a910b6ec77e1d191439258855226a"
+   last-author="maxoudela"
+   committed-rev="32"
+   text-time="2012-05-21T13:28:57.000000Z"
+   kind="file"
+   committed-date="2012-05-21T13:28:57.504689Z"/>
+<entry
+   name="Decoder.java"
+   checksum="636c2a5f4bd6013f31fed1c26ad4805c"
+   last-author="maxoudela"
+   committed-rev="32"
+   text-time="2012-05-21T13:28:57.000000Z"
+   kind="file"
+   committed-date="2012-05-21T13:28:57.504689Z"/>
+<entry
+   name="Version.java"
+   checksum="e6f0b177eb5cfa567177f9e096266454"
+   last-author="maxoudela"
+   committed-rev="32"
+   text-time="2012-05-21T13:28:57.000000Z"
+   kind="file"
+   committed-date="2012-05-21T13:28:57.504689Z"/>
+</wc-entries>

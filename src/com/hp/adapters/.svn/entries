@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://subversion.assembla.com/svn/healthyproduct"
+   name=""
+   revision="65"
+   last-author="Lisional"
+   url="http://subversion.assembla.com/svn/healthyproduct/trunk/src/com/hp/adapters"
+   uuid="a35957e5-eb71-4bc1-af2d-79585cc7c74f"
+   committed-rev="65"
+   kind="dir"
+   committed-date="2012-06-12T08:54:35.465215Z"/>
+<entry
+   name="CirclePageIndicator.java"
+   checksum="3e8b25762ad8510310a96d0cf674b6c6"
+   last-author="Lisional"
+   committed-rev="12"
+   text-time="2012-05-15T06:58:03.000000Z"
+   kind="file"
+   committed-date="2012-05-15T06:58:03.126046Z"/>
+<entry
+   name="HistoryAdapter.java"
+   checksum="ac10fefe43ab3ee72419252773f10b17"
+   last-author="maxoudela"
+   committed-rev="47"
+   text-time="2012-06-05T19:09:05.000000Z"
+   kind="file"
+   committed-date="2012-06-05T19:09:05.377989Z"/>
+<entry
+   name="ListCommentaireAdapter.java"
+   checksum="550f2f849d43e17f434ff04e0874c93c"
+   last-author="Lisional"
+   text-time="2012-06-12T08:54:35.000000Z"
+   committed-rev="65"
+   kind="file"
+   committed-date="2012-06-12T08:54:35.465215Z"/>
+<entry
+   name="ListeIngredientAdapter.java"
+   checksum="0e60c9ac5b4ebac281566f07a71d1406"
+   last-author="Lisional"
+   text-time="2012-05-19T13:41:47.000000Z"
+   committed-rev="20"
+   kind="file"
+   committed-date="2012-05-19T13:41:47.490601Z"/>
+<entry
+   name="ListeIngredientCompleteAdapter.java"
+   checksum="586c7cc46d259f9fc6bed2c9b3d3ad53"
+   last-author="vpoulain"
+   text-time="2012-06-10T14:29:14.000000Z"
+   committed-rev="63"
+   kind="file"
+   committed-date="2012-06-10T15:27:50.066000Z"/>
+<entry
+   name="ListeLabelCompleteAdapter.java"
+   checksum="ab1007b934c2042da6ec40b458f69070"
+   last-author="vpoulain"
+   text-time="2012-05-28T16:14:45.000000Z"
+   committed-rev="34"
+   kind="file"
+   committed-date="2012-05-28T17:50:56.700000Z"/>
+<entry
+   name="PageIndicator.java"
+   checksum="ebf923b1779fd06d498ed094e7ba9247"
+   last-author="Lisional"
+   committed-rev="12"
+   text-time="2012-05-15T06:58:03.000000Z"
+   kind="file"
+   committed-date="2012-05-15T06:58:03.126046Z"/>
+<entry
+   name="PagerAdapter.java"
+   checksum="78cd5321b7a91f9f814f527f3b1a44b8"
+   last-author="Lisional"
+   committed-rev="12"
+   text-time="2012-05-15T06:58:03.000000Z"
+   kind="file"
+   committed-date="2012-05-15T06:58:03.126046Z"/>
+</wc-entries>

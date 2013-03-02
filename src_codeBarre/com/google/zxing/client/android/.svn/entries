@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://subversion.assembla.com/svn/healthyproduct"
+   name=""
+   revision="57"
+   last-author="maxoudela"
+   url="http://subversion.assembla.com/svn/healthyproduct/trunk/src_codeBarre/com/google/zxing/client/android"
+   uuid="a35957e5-eb71-4bc1-af2d-79585cc7c74f"
+   committed-rev="57"
+   kind="dir"
+   committed-date="2012-06-08T21:44:11.460947Z"/>
+<entry
+   name="BeepManager.java"
+   checksum="77242e661461b039d204146bf33e50f9"
+   last-author="maxoudela"
+   committed-rev="32"
+   text-time="2012-05-21T13:28:57.000000Z"
+   kind="file"
+   committed-date="2012-05-21T13:28:57.504689Z"/>
+<entry
+   name="CaptureActivityHandler.java"
+   checksum="e07f556d001db4381a2ebe0bcb4c6bd1"
+   last-author="maxoudela"
+   committed-rev="32"
+   text-time="2012-05-21T13:28:57.000000Z"
+   kind="file"
+   committed-date="2012-05-21T13:28:57.504689Z"/>
+<entry
+   name="Contents.java"
+   checksum="61c1bf32aa4d7c20e03fe3e88b7c1abc"
+   last-author="maxoudela"
+   committed-rev="32"
+   text-time="2012-05-21T13:28:57.000000Z"
+   kind="file"
+   committed-date="2012-05-21T13:28:57.504689Z"/>
+<entry
+   name="DecodeFormatManager.java"
+   checksum="f32ec1307277bd6ea2af5ae70f8195ac"
+   last-author="maxoudela"
+   committed-rev="32"
+   text-time="2012-05-21T13:28:57.000000Z"
+   kind="file"
+   committed-date="2012-05-21T13:28:57.504689Z"/>
+<entry
+   name="DecodeHandler.java"
+   checksum="698ae414a98b2c2cb54f750000670142"
+   last-author="maxoudela"
+   committed-rev="32"
+   text-time="2012-05-21T13:28:57.000000Z"
+   kind="file"
+   committed-date="2012-05-21T13:28:57.504689Z"/>
+<entry
+   name="DecodeThread.java"
+   checksum="c1133dc4bb2fbd4eda84af09623b424e"
+   last-author="maxoudela"
+   committed-rev="32"
+   text-time="2012-05-21T13:28:57.000000Z"
+   kind="file"
+   committed-date="2012-05-21T13:28:57.504689Z"/>
+<entry
+   name="FinishListener.java"
+   checksum="26095df464601c94b69c7a16b9e23930"
+   last-author="maxoudela"
+   committed-rev="32"
+   text-time="2012-05-21T13:28:57.000000Z"
+   kind="file"
+   committed-date="2012-05-21T13:28:57.504689Z"/>
+<entry
+   name="HelpActivity.java"
+   checksum="f972e76f9734cbd1556306d32539680f"
+   last-author="maxoudela"
+   committed-rev="32"
+   text-time="2012-05-21T13:28:57.000000Z"
+   kind="file"
+   committed-date="2012-05-21T13:28:57.504689Z"/>
+<entry
+   name="HttpHelper.java"
+   checksum="469b827d8fc9c90492d6903b298f3440"
+   last-author="maxoudela"
+   committed-rev="32"
+   text-time="2012-05-21T13:28:57.000000Z"
+   kind="file"
+   committed-date="2012-05-21T13:28:57.504689Z"/>
+<entry
+   name="InactivityTimer.java"
+   checksum="10a91406d4a7b281685a812961cc8521"
+   last-author="maxoudela"
+   committed-rev="32"
+   text-time="2012-05-21T13:28:57.000000Z"
+   kind="file"
+   committed-date="2012-05-21T13:28:57.504689Z"/>
+<entry
+   name="IntentSource.java"
+   checksum="8223cfa057c15b3d5e6e33ca5d7a6153"
+   last-author="maxoudela"
+   committed-rev="32"
+   text-time="2012-05-21T13:28:57.000000Z"
+   kind="file"
+   committed-date="2012-05-21T13:28:57.504689Z"/>
+<entry
+   name="Intents.java"
+   checksum="16c513a609976732bded7a74101a9542"
+   last-author="maxoudela"
+   committed-rev="32"
+   text-time="2012-05-21T13:28:57.000000Z"
+   kind="file"
+   committed-date="2012-05-21T13:28:57.504689Z"/>
+<entry
+   name="LocaleManager.java"
+   checksum="f2c3554fc01bebe15ebe2ebca7c1344d"
+   last-author="maxoudela"
+   committed-rev="32"
+   text-time="2012-05-21T13:28:57.000000Z"
+   kind="file"
+   committed-date="2012-05-21T13:28:57.504689Z"/>
+<entry
+   name="PlanarYUVLuminanceSource.java"
+   checksum="56852cd95da7771521dae3d9eac7162a"
+   last-author="maxoudela"
+   committed-rev="32"
+   text-time="2012-05-21T13:28:57.000000Z"
+   kind="file"
+   committed-date="2012-05-21T13:28:57.504689Z"/>
+<entry
+   name="ViewfinderResultPointCallback.java"
+   checksum="7a67986ec8d117037085f119eff345de"
+   last-author="maxoudela"
+   committed-rev="32"
+   text-time="2012-05-21T13:28:57.000000Z"
+   kind="file"
+   committed-date="2012-05-21T13:28:57.504689Z"/>
+<entry
+   name="ViewfinderView.java"
+   checksum="318027ff47a4e78df7d562ddec4e7993"
+   last-author="maxoudela"
+   committed-rev="32"
+   text-time="2012-05-21T13:28:57.000000Z"
+   kind="file"
+   committed-date="2012-05-21T13:28:57.504689Z"/>
+<entry
+   name="camera"
+   kind="dir"/>
+</wc-entries>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+	<TextView 
+	    android:id="@+id/nom_ingredient"
+		android:layout_width="fill_parent"
+		android:layout_alignParentLeft="true"
+		android:layout_alignTop="@+id/remove_button"
+		android:layout_alignBottom="@+id/remove_button"
+		android:gravity="left|center"
+	    android:layout_height="wrap_content"
+	    android:textAppearance="?android:attr/textAppearanceMedium"
+	    android:layout_toLeftOf="@+id/remove_button" />
+	
+   	<Button
+		android:id="@+id/remove_button"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_alignParentRight="true"
+		android:background="@drawable/ic_delete" />
+
+</RelativeLayout>

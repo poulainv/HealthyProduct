@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="http://subversion.assembla.com/svn/healthyproduct"
+   revision="57"
+   last-author="maxoudela"
+   uuid="a35957e5-eb71-4bc1-af2d-79585cc7c74f"
+   url="http://subversion.assembla.com/svn/healthyproduct/trunk/src/com/hp/interfaces"
+   committed-rev="57"
+   kind="dir"
+   committed-date="2012-06-08T21:44:11.460947Z"/>
+<entry
+   name="SimpleGestureFilter.java"
+   checksum="3681d44f28e3199f254afd1296416688"
+   last-author="maxoudela"
+   committed-rev="57"
+   text-time="2012-06-08T21:44:11.000000Z"
+   kind="file"
+   committed-date="2012-06-08T21:44:11.460947Z"/>
+<entry
+   name="onUserCompleteListener.java"
+   checksum="e85fa3b49143cdab02f90a6ad9158578"
+   last-author="Lisional"
+   text-time="2012-05-15T07:12:53.000000Z"
+   committed-rev="16"
+   kind="file"
+   committed-date="2012-05-15T07:12:53.113115Z"/>
+</wc-entries>

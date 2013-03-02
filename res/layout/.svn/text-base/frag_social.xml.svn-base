@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/mainLinearLayout" >
+
+    <LinearLayout
+        android:id="@+id/shareLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="1" >
+
+        <EditText
+            android:id="@+id/socialTextToShare"
+            android:layout_width="0dip"
+            android:layout_height="match_parent"
+            android:layout_marginTop="20dip"
+            android:layout_weight="1"
+            android:hint="@string/frag_social_shareText"
+            android:textColorHint="@color/white_text"
+            android:inputType="textMultiLine" >
+        </EditText>
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/socialShareButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@drawable/button_selector"
+        android:text="@string/frag_social_doShareButton" >
+    </Button>
+
+    <ListView
+        android:id="@+id/commentList"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:divider="#efefef"
+        android:dividerHeight="1dip" >
+    </ListView>
+
+</LinearLayout>

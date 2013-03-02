@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="http://subversion.assembla.com/svn/healthyproduct"
+   revision="67"
+   last-author="Lisional"
+   uuid="a35957e5-eb71-4bc1-af2d-79585cc7c74f"
+   url="http://subversion.assembla.com/svn/healthyproduct/trunk/res/layout"
+   committed-rev="67"
+   kind="dir"
+   committed-date="2012-06-13T21:20:35.636794Z"/>
+<entry
+   name="barcodecapture.xml"
+   checksum="4894d62a7b6aea1c3dd566e7f55cabaf"
+   last-author="maxoudela"
+   text-time="2012-06-08T21:44:11.000000Z"
+   committed-rev="57"
+   kind="file"
+   committed-date="2012-06-08T21:44:11.460947Z"
+   prop-time="2012-05-21T14:02:59.000000Z"/>
+<entry
+   name="barcodehelp.xml"
+   checksum="1cae23a6849930d39565fa5e6699ff6c"
+   last-author="maxoudela"
+   committed-rev="32"
+   text-time="2012-05-21T13:28:57.000000Z"
+   kind="file"
+   committed-date="2012-05-21T13:28:57.504689Z"
+   prop-time="2012-05-21T14:02:59.000000Z"/>
+<entry
+   name="dialog_ingredient_list_complete.xml"
+   checksum="644e16d6354ce2e39a4a21d3a8812b22"
+   last-author="vpoulain"
+   text-time="2012-06-10T14:37:24.000000Z"
+   committed-rev="63"
+   kind="file"
+   committed-date="2012-06-10T15:27:50.066000Z"/>
+<entry
+   name="dialog_label_list.xml"
+   checksum="5d6e24841e1753626a23fbb7e2e03a06"
+   last-author="vpoulain"
+   text-time="2012-06-10T14:39:52.000000Z"
+   committed-rev="63"
+   kind="file"
+   committed-date="2012-06-10T15:27:50.066000Z"/>
+<entry
+   name="dialog_list_ingredients.xml"
+   checksum="3b6477685852521acbf3da242578847e"
+   last-author="Lisional"
+   text-time="2012-06-13T20:29:28.000000Z"
+   committed-rev="66"
+   kind="file"
+   committed-date="2012-06-13T20:29:28.980591Z"/>
+<entry
+   name="error_ingredient_forbidden.xml"
+   checksum="433a7446450737ddebc989e3abbb7c31"
+   last-author="Lisional"
+   committed-rev="51"
+   text-time="2012-06-06T16:35:04.000000Z"
+   kind="file"
+   committed-date="2012-06-06T16:35:04.654895Z"/>
+<entry
+   name="error_product_not_found.xml"
+   checksum="c3ecd1fdc814a2cea1c718a0c9db2f1b"
+   last-author="Lisional"
+   committed-rev="51"
+   text-time="2012-06-06T16:35:04.000000Z"
+   kind="file"
+   committed-date="2012-06-06T16:35:04.654895Z"/>
+<entry
+   name="first_use.xml"
+   checksum="825c1fc7d6ddafbf192537470625d925"
+   last-author="Lisional"
+   committed-rev="9"
+   text-time="2012-05-14T11:09:31.000000Z"
+   kind="file"
+   committed-date="2012-05-14T11:09:31.862636Z"/>
+<entry
+   name="frag_affinage.xml"
+   checksum="60578848cb4554be56790772a2347a6a"
+   last-author="Lisional"
+   committed-rev="66"
+   text-time="2012-06-13T20:29:28.000000Z"
+   kind="file"
+   committed-date="2012-06-13T20:29:28.980591Z"/>
+<entry
+   name="frag_choixprofil.xml"
+   checksum="397b35bf06c5e69536ef85f4e1d264c6"
+   last-author="vpoulain"
+   committed-rev="61"
+   text-time="2012-06-09T23:02:20.000000Z"
+   kind="file"
+   committed-date="2012-06-09T23:05:31.520000Z"/>
+<entry
+   name="frag_health.xml"
+   checksum="10cfcca3f2542359db286b9a3137ec4b"
+   last-author="vpoulain"
+   committed-rev="60"
+   text-time="2012-06-09T22:41:56.000000Z"
+   kind="file"
+   committed-date="2012-06-09T22:51:32.700000Z"/>
+<entry
+   name="frag_ingredients_rows.xml"
+   checksum="e4561f4a298dbc63c75a8daa553cc116"
+   last-author="Lisional"
+   text-time="2012-06-08T18:32:26.000000Z"
+   committed-rev="56"
+   kind="file"
+   committed-date="2012-06-08T18:32:26.920000Z"/>
+<entry
+   name="frag_main.xml"
+   checksum="7a71b25d16070188344b11e65c70fa00"
+   last-author="vpoulain"
+   committed-rev="60"
+   text-time="2012-06-09T22:38:31.000000Z"
+   kind="file"
+   committed-date="2012-06-09T22:51:32.700000Z"/>
+<entry
+   name="frag_name_user.xml"
+   checksum="e714c0a7843d58d6217864fc358de3ec"
+   last-author="Lisional"
+   text-time="2012-06-13T21:20:35.000000Z"
+   committed-rev="67"
+   kind="file"
+   committed-date="2012-06-13T21:20:35.636794Z"/>
+<entry
+   name="frag_social.xml"
+   checksum="f526612fcf705bf837c2544ccaf02d4e"
+   last-author="Lisional"
+   text-time="2012-06-13T20:29:28.000000Z"
+   committed-rev="66"
+   kind="file"
+   committed-date="2012-06-13T20:29:28.980591Z"/>
+<entry
+   name="frag_social_commentaire_rows.xml"
+   checksum="601bbab8451daabdf3f6dbf6033a3c35"
+   last-author="Lisional"
+   committed-rev="65"
+   text-time="2012-06-12T08:54:35.000000Z"
+   kind="file"
+   committed-date="2012-06-12T08:54:35.465215Z"/>
+<entry
+   name="history_list.xml"
+   checksum="2c568448f17bd25b7196d984c41d0833"
+   last-author="maxoudela"
+   text-time="2012-06-08T21:44:11.000000Z"
+   committed-rev="57"
+   kind="file"
+   committed-date="2012-06-08T21:44:11.460947Z"/>
+<entry
+   name="history_row.xml"
+   checksum="1c9a8a2c484d7793102aa017b98a17ce"
+   last-author="maxoudela"
+   committed-rev="47"
+   text-time="2012-06-05T19:09:05.000000Z"
+   kind="file"
+   committed-date="2012-06-05T19:09:05.377989Z"/>
+<entry
+   name="ingredient_list_row.xml"
+   checksum="f20866260c00eac8cc91b1645d115878"
+   last-author="maxoudela"
+   committed-rev="57"
+   text-time="2012-06-08T21:44:11.000000Z"
+   kind="file"
+   committed-date="2012-06-08T21:44:11.460947Z"/>
+<entry
+   name="mainviewpager.xml"
+   checksum="5e25dab343eb632ec6f2f25deca26e94"
+   last-author="Lisional"
+   committed-rev="65"
+   text-time="2012-06-12T08:54:35.000000Z"
+   kind="file"
+   committed-date="2012-06-12T08:54:35.465215Z"/>
+<entry
+   name="options_list.xml"
+   checksum="135a35c9c05f06fcb5beef54ff5d703b"
+   last-author="Lisional"
+   text-time="2012-06-08T18:32:26.000000Z"
+   committed-rev="56"
+   kind="file"
+   committed-date="2012-06-08T18:32:26.920000Z"/>
+<entry
+   name="options_listitem.xml"
+   checksum="21e2bb7ba2883605f5a098b2f08f9234"
+   last-author="Lisional"
+   text-time="2012-06-03T13:33:20.000000Z"
+   committed-rev="43"
+   kind="file"
+   committed-date="2012-06-03T13:33:20.208948Z"/>
+<entry
+   name="splashscreen.xml"
+   checksum="142d0217db87cea4e725a264d0d0afe6"
+   last-author="Lisional"
+   text-time="2012-06-03T16:01:50.000000Z"
+   committed-rev="44"
+   kind="file"
+   committed-date="2012-06-03T16:01:50.978093Z"/>
+<entry
+   name="test.xml"
+   checksum="7b20faa0045d92eebfac1a7bc71cd1ae"
+   last-author="maxoudela"
+   committed-rev="57"
+   text-time="2012-06-08T21:44:11.000000Z"
+   kind="file"
+   committed-date="2012-06-08T21:44:11.460947Z"
+   prop-time="2012-06-09T07:07:19.000000Z"/>
+</wc-entries>

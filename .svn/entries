@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="http://subversion.assembla.com/svn/healthyproduct"
+   revision="2"
+   last-author="lisional"
+   url="http://subversion.assembla.com/svn/healthyproduct/trunk"
+   uuid="a35957e5-eb71-4bc1-af2d-79585cc7c74f"
+   committed-rev="2"
+   kind="dir"
+   committed-date="2012-04-21T09:53:05.359121Z"/>
+<entry
+   name=".classpath"
+   revision="32"
+   checksum="a342c43508bc4aef854131f7e1ed971c"
+   last-author="maxoudela"
+   committed-rev="32"
+   text-time="2012-05-21T13:28:57.000000Z"
+   kind="file"
+   committed-date="2012-05-21T13:28:57.504689Z"/>
+<entry
+   name=".project"
+   checksum="d9643b4e68ccf6d6b6dfa14011380351"
+   last-author="lisional"
+   text-time="2012-04-21T09:53:05.000000Z"
+   committed-rev="2"
+   kind="file"
+   committed-date="2012-04-21T09:53:05.359121Z"/>
+<entry
+   name=".settings"
+   kind="dir"/>
+<entry
+   name="AndroidManifest.xml"
+   revision="56"
+   checksum="65915d172f3b43c237f3ff156b50734e"
+   last-author="Lisional"
+   committed-rev="56"
+   text-time="2012-05-21T13:28:57.000000Z"
+   kind="file"
+   committed-date="2012-06-08T18:32:26.920000Z"/>
+<entry
+   name="Diagramme Resources.PNG"
+   revision="60"
+   checksum="be0750e40a178b2b898e0e066647e890"
+   last-author="vpoulain"
+   text-time="2012-06-07T15:16:43.000000Z"
+   committed-rev="60"
+   kind="file"
+   committed-date="2012-06-09T22:51:32.700000Z"
+   prop-time="2012-06-09T22:51:17.000000Z"/>
+<entry
+   name="assets"
+   kind="dir"/>
+<entry
+   name="bin"
+   kind="dir"/>
+<entry
+   name="gen"
+   kind="dir"/>
+<entry
+   name="ic_launcher-web.png"
+   revision="35"
+   checksum="5ef56ed07357e0949578b3f0c437b1a3"
+   last-author="Lisional"
+   text-time="2012-06-01T15:04:34.000000Z"
+   committed-rev="35"
+   kind="file"
+   committed-date="2012-06-01T15:04:34.106663Z"
+   prop-time="2012-06-03T11:29:42.000000Z"/>
+<entry
+   name="libs"
+   kind="dir"/>
+<entry
+   name="proguard-project.txt"
+   checksum="18bfe77c342b4698f1cef19cf8d918e2"
+   last-author="lisional"
+   text-time="2012-04-21T09:53:05.000000Z"
+   committed-rev="2"
+   kind="file"
+   committed-date="2012-04-21T09:53:05.359121Z"/>
+<entry
+   name="project.properties"
+   checksum="39e44f0603e86ca7a41bf10a65a9b062"
+   last-author="lisional"
+   text-time="2012-04-21T09:53:05.000000Z"
+   committed-rev="2"
+   kind="file"
+   committed-date="2012-04-21T09:53:05.359121Z"/>
+<entry
+   name="res"
+   kind="dir"/>
+<entry
+   name="src"
+   kind="dir"/>
+<entry
+   name="src_codeBarre"
+   kind="dir"/>
+<entry
+   name="srccore"
+   kind="dir"/>
+</wc-entries>

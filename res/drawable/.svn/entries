@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://subversion.assembla.com/svn/healthyproduct"
+   name=""
+   revision="66"
+   last-author="Lisional"
+   url="http://subversion.assembla.com/svn/healthyproduct/trunk/res/drawable"
+   uuid="a35957e5-eb71-4bc1-af2d-79585cc7c74f"
+   committed-rev="66"
+   kind="dir"
+   committed-date="2012-06-13T20:29:28.980591Z"/>
+<entry
+   name="background.png"
+   checksum="b96d7e47acfcecd3a4318ade56d768d7"
+   last-author="Lisional"
+   text-time="2012-06-13T20:29:28.000000Z"
+   committed-rev="66"
+   kind="file"
+   committed-date="2012-06-13T20:29:28.980591Z"
+   prop-time="2012-06-06T08:56:38.000000Z"/>
+<entry
+   name="button_ingredients.png"
+   checksum="5d00be714cc4a8f56bbb4a1c85870822"
+   last-author="Lisional"
+   committed-rev="65"
+   text-time="2012-06-12T08:54:35.000000Z"
+   kind="file"
+   committed-date="2012-06-12T08:54:35.465215Z"
+   prop-time="2012-06-06T20:49:45.000000Z"/>
+<entry
+   name="button_ingredients_profil.png"
+   checksum="068425f52cd7335fc961c9a43cb1c287"
+   last-author="Lisional"
+   text-time="2012-06-08T18:32:26.000000Z"
+   committed-rev="56"
+   kind="file"
+   committed-date="2012-06-08T18:32:26.920000Z"
+   prop-time="2012-06-09T07:07:17.000000Z"/>
+<entry
+   name="button_label_bio.png"
+   checksum="686f4839e9bf9378299b29e3e3057d30"
+   last-author="Lisional"
+   committed-rev="65"
+   text-time="2012-06-12T08:54:35.000000Z"
+   kind="file"
+   committed-date="2012-06-12T08:54:35.465215Z"
+   prop-time="2012-06-09T07:07:16.000000Z"/>
+<entry
+   name="button_label_fairtrade.png"
+   checksum="6ec97251f14abfacd8871dd0d9d706ef"
+   last-author="Lisional"
+   committed-rev="65"
+   text-time="2012-06-12T08:54:35.000000Z"
+   kind="file"
+   committed-date="2012-06-12T08:54:35.465215Z"
+   prop-time="2012-06-09T07:07:17.000000Z"/>
+<entry
+   name="button_name.png"
+   checksum="c60b28c995bfe9324098f18a2bb2821e"
+   last-author="Lisional"
+   committed-rev="51"
+   text-time="2012-06-06T16:35:04.000000Z"
+   kind="file"
+   committed-date="2012-06-06T16:35:04.654895Z"
+   prop-time="2012-06-06T20:49:46.000000Z"/>
+<entry
+   name="button_normal.9.png"
+   checksum="efb5d9940bcf5220bccc204548af8090"
+   last-author="Lisional"
+   committed-rev="51"
+   text-time="2012-06-06T16:35:04.000000Z"
+   kind="file"
+   committed-date="2012-06-06T16:35:04.654895Z"
+   prop-time="2012-06-06T20:49:46.000000Z"/>
+<entry
+   name="button_pressed.9.png"
+   checksum="2831643eceec9fdca57ae0e2da4462b5"
+   last-author="Lisional"
+   committed-rev="51"
+   text-time="2012-06-06T16:35:04.000000Z"
+   kind="file"
+   committed-date="2012-06-06T16:35:04.654895Z"
+   prop-time="2012-06-06T20:49:46.000000Z"/>
+<entry
+   name="button_profil.png"
+   checksum="8902dc38f587f6ea7d9b63ff4acadd74"
+   last-author="Lisional"
+   committed-rev="51"
+   text-time="2012-06-06T16:35:04.000000Z"
+   kind="file"
+   committed-date="2012-06-06T16:35:04.654895Z"
+   prop-time="2012-06-06T20:49:45.000000Z"/>
+<entry
+   name="button_selector.xml"
+   checksum="cff9f4f0bb6dbbb24fd154ebba35e239"
+   last-author="Lisional"
+   text-time="2012-06-06T16:35:04.000000Z"
+   committed-rev="51"
+   kind="file"
+   committed-date="2012-06-06T16:35:04.654895Z"/>
+<entry
+   name="codebarre.jpg"
+   checksum="989b3e7cf31b55f3dfe066fb03d3f7a2"
+   last-author="lisional"
+   text-time="2012-04-21T09:53:05.000000Z"
+   committed-rev="2"
+   kind="file"
+   committed-date="2012-04-21T09:53:05.359121Z"
+   prop-time="2012-04-21T16:04:46.000000Z"/>
+<entry
+   name="glucides.png"
+   checksum="23c3cfa2d5c0ca9553df8104100a103c"
+   last-author="Lisional"
+   text-time="2012-06-08T18:32:26.000000Z"
+   committed-rev="56"
+   kind="file"
+   committed-date="2012-06-08T18:32:26.920000Z"
+   prop-time="2012-06-09T07:07:16.000000Z"/>
+<entry
+   name="ibackground.png"
+   checksum="8ac8169b0de89b6b7e5f95cc297f4e7d"
+   last-author="Lisional"
+   text-time="2012-06-13T20:29:28.000000Z"
+   committed-rev="66"
+   kind="file"
+   committed-date="2012-06-13T20:29:28.980591Z"
+   prop-time="2012-06-13T20:34:06.000000Z"/>
+<entry
+   name="ic_delete.png"
+   checksum="68267a38d1befd780fe998c550a81ac5"
+   last-author="Lisional"
+   text-time="2012-06-08T18:32:26.000000Z"
+   committed-rev="56"
+   kind="file"
+   committed-date="2012-06-08T18:32:26.920000Z"
+   prop-time="2012-06-09T07:07:17.000000Z"/>
+<entry
+   name="k_cal.png"
+   checksum="3689485abb5e647536013e04a4301257"
+   last-author="Lisional"
+   text-time="2012-06-08T18:32:26.000000Z"
+   committed-rev="56"
+   kind="file"
+   committed-date="2012-06-08T18:32:26.920000Z"
+   prop-time="2012-06-09T07:07:17.000000Z"/>
+<entry
+   name="km_parcourus.png"
+   checksum="63f4196684886f3cad9bae2fc93e0150"
+   last-author="Lisional"
+   committed-rev="65"
+   text-time="2012-06-12T08:54:35.000000Z"
+   kind="file"
+   committed-date="2012-06-12T08:54:35.465215Z"
+   prop-time="2012-06-09T07:07:17.000000Z"/>
+<entry
+   name="lipides.png"
+   checksum="deb1ac98b7aff9ef3986ebcdac117aac"
+   last-author="Lisional"
+   text-time="2012-06-08T18:32:26.000000Z"
+   committed-rev="56"
+   kind="file"
+   committed-date="2012-06-08T18:32:26.920000Z"
+   prop-time="2012-06-09T07:07:17.000000Z"/>
+<entry
+   name="ogm.png"
+   checksum="149e70c8bfe790c50ba46906e994e90f"
+   last-author="Lisional"
+   committed-rev="65"
+   text-time="2012-06-12T08:54:35.000000Z"
+   kind="file"
+   committed-date="2012-06-12T08:54:35.465215Z"
+   prop-time="2012-06-09T07:07:17.000000Z"/>
+<entry
+   name="premierscan.png"
+   checksum="d43da040dd420c770efa1d020245f602"
+   last-author="maxoudela"
+   text-time="2012-06-08T21:44:11.000000Z"
+   committed-rev="57"
+   kind="file"
+   committed-date="2012-06-08T21:44:11.460947Z"
+   prop-time="2012-06-09T07:07:16.000000Z"/>
+<entry
+   name="prix_moy.png"
+   checksum="c80cc48c1170762a535144d922e44ac3"
+   last-author="Lisional"
+   text-time="2012-06-08T18:32:26.000000Z"
+   committed-rev="56"
+   kind="file"
+   committed-date="2012-06-08T18:32:26.920000Z"
+   prop-time="2012-06-09T07:07:16.000000Z"/>
+<entry
+   name="profil_selector.xml"
+   checksum="7a8f128eed99f7a17da42c8ad7570f21"
+   last-author="Lisional"
+   committed-rev="66"
+   text-time="2012-06-13T20:29:28.000000Z"
+   kind="file"
+   committed-date="2012-06-13T20:29:28.980591Z"/>
+<entry
+   name="splashscreen.png"
+   checksum="1fd84da9fc591486aa0a33ebd30ba08d"
+   last-author="Lisional"
+   text-time="2012-06-13T20:29:28.000000Z"
+   committed-rev="66"
+   kind="file"
+   committed-date="2012-06-13T20:29:28.980591Z"
+   prop-time="2012-06-06T08:56:38.000000Z"/>
+</wc-entries>

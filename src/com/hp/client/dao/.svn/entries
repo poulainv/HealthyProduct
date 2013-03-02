@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="http://subversion.assembla.com/svn/healthyproduct"
+   revision="67"
+   last-author="Zilian"
+   url="http://subversion.assembla.com/svn/healthyproduct/trunk/src/com/hp/client/dao"
+   uuid="a35957e5-eb71-4bc1-af2d-79585cc7c74f"
+   committed-rev="48"
+   kind="dir"
+   committed-date="2012-06-05T22:36:57.538323Z"/>
+<entry
+   name="DAO.java"
+   checksum="7a6f0ef6c444adfbea5a4c59e23a2903"
+   last-author="Zilian"
+   text-time="2012-06-05T22:36:57.000000Z"
+   committed-rev="48"
+   kind="file"
+   committed-date="2012-06-05T22:36:57.538323Z"/>
+</wc-entries>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/mainLinearLayout" >
+
+    <TextView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/titre"
+        style="@style/title"
+        android:text="@string/mon_profil_title"/>
+
+    <LinearLayout
+        android:id="@+id/layout_options"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="30dip"
+        android:orientation="vertical"
+        android:weightSum="3" >
+
+        <Button
+            android:id="@+id/options_change_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dip"
+            android:layout_weight="1"
+            android:background="@drawable/button_name" />
+
+        <Button
+            android:id="@+id/options_change_profil"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dip"
+            android:layout_weight="1"
+            android:background="@drawable/button_profil" />
+
+        <Button
+            android:id="@+id/options_change_ingredients"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dip"
+            android:layout_weight="1"
+            android:background="@drawable/button_ingredients_profil" />
+    </LinearLayout>
+    
+</LinearLayout>

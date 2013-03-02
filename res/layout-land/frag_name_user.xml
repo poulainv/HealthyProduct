@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/mainLinearLayout" >
+
+    <RelativeLayout
+        android:id="@+id/position_fleche"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:layout_gravity="center" >
+
+        <TextView
+            android:id="@+id/textView1"
+            style="@style/infoTextView"
+            android:layout_width="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_gravity="center"
+            android:layout_toLeftOf="@+id/champNom"
+            android:text="@string/frag_choixprofil_welcome" />
+
+        <EditText
+            android:id="@+id/champNom"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_gravity="center"
+            android:hint="@string/frag_choixprofil_editNameHint"
+            android:textColorHint="@color/white_text" />
+
+        <ImageView
+            android:id="@+id/fleche_next"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:src="@drawable/fleche"
+            android:visibility="invisible" />
+    </RelativeLayout>
+
+</LinearLayout>

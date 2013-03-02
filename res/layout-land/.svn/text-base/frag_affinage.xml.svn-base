@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/mainLinearLayout"
+    android:orientation="horizontal"
+    android:baselineAligned="false" >
+
+    <RelativeLayout
+        android:layout_width="0dip"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.5"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/textView1"
+            style="@style/infoTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/lvListe"
+            android:layout_gravity="center"
+            android:text="@string/frag_affinage" />
+
+        <AutoCompleteTextView
+            android:id="@+id/input"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView1"
+            android:layout_alignParentLeft="true"
+            android:layout_alignRight="@+id/textView1"
+            android:completionThreshold="1"
+            android:hint="@string/enter_ingredient"
+            android:textColorHint="@color/white_text" />
+    </RelativeLayout>
+    
+    <RelativeLayout
+        android:id="@+id/buttons"
+        android:layout_width="0dip"
+        android:layout_height="wrap_content"
+        android:layout_weight=".5" >
+
+        <ListView
+            android:id="@+id/lvListe"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_above="@+id/valid_button"
+            android:layout_alignTop="@+id/textView1"
+            android:layout_toRightOf="@+id/textView1" >
+        </ListView>
+
+        <TextView
+            android:id="@+id/empty_list_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dip"
+            android:gravity="center"
+            android:layout_centerInParent="true"
+            android:text="@string/frag_affinage_no_ingredient"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:visibility="gone" />
+
+        <Button
+            android:id="@+id/valid_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/button_selector"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:text="@string/frag_affinage_valid" />
+    </RelativeLayout>
+
+
+</LinearLayout>

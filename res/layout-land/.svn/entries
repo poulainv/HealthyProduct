@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://subversion.assembla.com/svn/healthyproduct"
+   name=""
+   revision="66"
+   last-author="Lisional"
+   url="http://subversion.assembla.com/svn/healthyproduct/trunk/res/layout-land"
+   uuid="a35957e5-eb71-4bc1-af2d-79585cc7c74f"
+   committed-rev="66"
+   kind="dir"
+   committed-date="2012-06-13T20:29:28.980591Z"/>
+<entry
+   name="error_ingredient_forbidden.xml"
+   checksum="a538f3cd72682c58ca6b0265e71b353c"
+   last-author="Lisional"
+   text-time="2012-06-06T16:35:04.000000Z"
+   committed-rev="51"
+   kind="file"
+   committed-date="2012-06-06T16:35:04.654895Z"/>
+<entry
+   name="frag_affinage.xml"
+   checksum="4ce70d5a42d3dda490bb5ced5713ea99"
+   last-author="Lisional"
+   committed-rev="66"
+   text-time="2012-06-13T20:29:28.000000Z"
+   kind="file"
+   committed-date="2012-06-13T20:29:28.980591Z"/>
+<entry
+   name="frag_choixprofil.xml"
+   checksum="eb038bca1372d9d68b0bac9e6abbf2ee"
+   last-author="Lisional"
+   text-time="2012-06-01T15:06:47.000000Z"
+   committed-rev="36"
+   kind="file"
+   committed-date="2012-06-01T15:06:47.292797Z"/>
+<entry
+   name="frag_health.xml"
+   checksum="4828e51b63c7e3a4d9f8c43c80468a8f"
+   last-author="Lisional"
+   text-time="2012-06-08T18:32:26.000000Z"
+   committed-rev="56"
+   kind="file"
+   committed-date="2012-06-08T18:32:26.920000Z"/>
+<entry
+   name="frag_main.xml"
+   checksum="82235e1f5b49a986f1d238c5c66b9053"
+   last-author="Lisional"
+   committed-rev="56"
+   text-time="2012-06-08T18:32:26.000000Z"
+   kind="file"
+   committed-date="2012-06-08T18:32:26.920000Z"/>
+<entry
+   name="frag_name_user.xml"
+   checksum="3f267b465e724dea0c527884ec7168c9"
+   last-author="Lisional"
+   text-time="2012-06-13T20:29:28.000000Z"
+   committed-rev="66"
+   kind="file"
+   committed-date="2012-06-13T20:29:28.980591Z"/>
+<entry
+   name="frag_social.xml"
+   checksum="ffe929c111802fa5893305ff4215dbc6"
+   last-author="Lisional"
+   committed-rev="66"
+   text-time="2012-06-13T20:29:28.000000Z"
+   kind="file"
+   committed-date="2012-06-13T20:29:28.980591Z"/>
+<entry
+   name="options_list.xml"
+   checksum="945ecad7eeed46955a410289b7024a46"
+   last-author="Lisional"
+   committed-rev="56"
+   text-time="2012-06-08T18:32:26.000000Z"
+   kind="file"
+   committed-date="2012-06-08T18:32:26.920000Z"/>
+</wc-entries>

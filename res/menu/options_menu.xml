@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/options"
+        android:title="@string/option_profil">
+    </item>
+    
+    <item
+        android:id="@+id/historique"
+        android:title="@string/option_historique">
+    </item>
+    
+    <item
+        android:id="@+id/newscan"
+        android:title="@string/option_new_scan">
+    </item>
+
+</menu>

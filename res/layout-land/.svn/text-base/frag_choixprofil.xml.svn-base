@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/mainLinearLayout"
+    android:orientation="horizontal"
+    android:weightSum="1" >
+
+    <TextView
+        android:id="@+id/textView1"
+        style="@style/infoTextView"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_weight="0.35"
+        android:text="@string/frag_choixprofil" />
+
+    <LinearLayout
+        android:id="@+id/buttons"
+        android:layout_width="0dip"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_weight=".65"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:id="@+id/row1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:weightSum="1" >
+
+            <ToggleButton
+                android:id="@+id/radioEconome"
+                android:layout_width="0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight=".5"
+                android:background="@drawable/profil_selector"
+                android:textOff="@string/frag_choixprofil_econome"
+                android:textOn="@string/frag_choixprofil_econome" />
+
+            <ToggleButton
+                android:id="@+id/radioEcofriend"
+                android:layout_width="0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight=".5"
+                android:background="@drawable/profil_selector"
+                android:textOff="@string/frag_choixprofil_ecofriend"
+                android:textOn="@string/frag_choixprofil_ecofriend" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/row2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:weightSum="1" >
+
+            <ToggleButton
+                android:id="@+id/radioFatWatcher"
+                android:layout_width="0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight=".5"
+                android:background="@drawable/profil_selector"
+                android:textOff="@string/frag_choixprofil_fat"
+                android:textOn="@string/frag_choixprofil_fat" />
+
+            <ToggleButton
+                android:id="@+id/radioQualite"
+                android:layout_width="0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight=".5"
+                android:background="@drawable/profil_selector"
+                android:textOff="@string/frag_choixprofil_qualite"
+                android:textOn="@string/frag_choixprofil_qualite" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

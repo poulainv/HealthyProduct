@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="http://subversion.assembla.com/svn/healthyproduct"
+   revision="67"
+   last-author="Lisional"
+   uuid="a35957e5-eb71-4bc1-af2d-79585cc7c74f"
+   url="http://subversion.assembla.com/svn/healthyproduct/trunk/res/values"
+   committed-rev="67"
+   kind="dir"
+   committed-date="2012-06-13T21:20:35.636794Z"/>
+<entry
+   name="attrs.xml"
+   checksum="e547620b1c19fa4563070784db8cf71b"
+   last-author="Lisional"
+   committed-rev="14"
+   text-time="2012-05-15T06:59:18.000000Z"
+   kind="file"
+   committed-date="2012-05-15T06:59:18.428614Z"/>
+<entry
+   name="colors.xml"
+   checksum="0727a8179d5805146e34e01947faa1f5"
+   last-author="Lisional"
+   text-time="2012-06-03T16:01:50.000000Z"
+   committed-rev="44"
+   kind="file"
+   committed-date="2012-06-03T16:01:50.978093Z"/>
+<entry
+   name="defaults.xml"
+   checksum="85d2174f12749b7f1b2be92d0fe491d7"
+   last-author="Lisional"
+   committed-rev="14"
+   text-time="2012-05-15T06:59:18.000000Z"
+   kind="file"
+   committed-date="2012-05-15T06:59:18.428614Z"/>
+<entry
+   name="ids.xml"
+   checksum="38ddb33bb6fcdab5804cb4efdb69ca54"
+   last-author="maxoudela"
+   committed-rev="32"
+   text-time="2012-05-21T13:28:57.000000Z"
+   kind="file"
+   committed-date="2012-05-21T13:28:57.504689Z"
+   prop-time="2012-05-21T14:02:59.000000Z"/>
+<entry
+   name="strings.xml"
+   checksum="91c7cdb98fb21711579acc84b440f996"
+   last-author="Lisional"
+   text-time="2012-06-13T21:20:35.000000Z"
+   committed-rev="67"
+   kind="file"
+   committed-date="2012-06-13T21:20:35.636794Z"/>
+<entry
+   name="styles.xml"
+   checksum="281b39c5d062498b481992737f1c5655"
+   last-author="maxoudela"
+   text-time="2012-06-08T21:44:11.000000Z"
+   committed-rev="57"
+   kind="file"
+   committed-date="2012-06-08T21:44:11.460947Z"/>
+</wc-entries>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://subversion.assembla.com/svn/healthyproduct"
+   name=""
+   revision="2"
+   last-author="lisional"
+   url="http://subversion.assembla.com/svn/healthyproduct/trunk/bin"
+   uuid="a35957e5-eb71-4bc1-af2d-79585cc7c74f"
+   committed-rev="2"
+   kind="dir"
+   committed-date="2012-04-21T09:53:05.359121Z"/>
+<entry
+   name="classes"
+   kind="dir"/>
+<entry
+   name="jarlist.cache"
+   schedule="delete"
+   checksum="89e3bd3d36955bcf2aba5ee786f0f0a4"
+   last-author="lisional"
+   committed-rev="2"
+   text-time="2012-04-21T09:53:05.000000Z"
+   kind="file"
+   committed-date="2012-04-21T09:53:05.359121Z"/>
+<entry
+   name="res"
+   schedule="delete"
+   kind="dir"/>
+</wc-entries>

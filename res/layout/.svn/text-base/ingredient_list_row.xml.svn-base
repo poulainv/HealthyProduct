@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+	<TextView 
+	    android:id="@+id/nom_ingredient"
+		android:layout_width="fill_parent"
+		android:layout_alignParentLeft="true"
+	    android:layout_height="wrap_content"
+	    android:textColor="@color/dark_color"
+	    android:layout_toLeftOf="@+id/nom_ingredient" />
+
+</RelativeLayout>

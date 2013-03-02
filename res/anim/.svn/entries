@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://subversion.assembla.com/svn/healthyproduct"
+   name=""
+   revision="57"
+   last-author="maxoudela"
+   url="http://subversion.assembla.com/svn/healthyproduct/trunk/res/anim"
+   uuid="a35957e5-eb71-4bc1-af2d-79585cc7c74f"
+   committed-rev="57"
+   kind="dir"
+   committed-date="2012-06-08T21:44:11.460947Z"/>
+<entry
+   name="animtext.xml"
+   checksum="a70ed6598b4c93a6caebd8bc1364aa69"
+   last-author="maxoudela"
+   text-time="2012-05-21T13:28:57.000000Z"
+   committed-rev="32"
+   kind="file"
+   committed-date="2012-05-21T13:28:57.504689Z"
+   prop-time="2012-05-21T14:02:59.000000Z"/>
+</wc-entries>

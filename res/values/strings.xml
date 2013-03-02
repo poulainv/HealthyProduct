@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+        <!-- Contient l'ensemble du texte de l'application - version standard française -->
+    
+
+    <string name="app_name">Healthy Products</string>
+    
+    <string name="hp_logo">HealthyProducts Logo</string>
+    
+    <string name="frag_choixprofil_welcome">Bienvenue, dis moi comment tu t\'intitules :</string>
+    <string name="frag_choixprofil">Il est maintenant temps de choisir ton profil, afin d\'obtenir des résultats adaptés à tes besoins. Tu pourras le changer dans les options:</string>
+    <string name="frag_choixprofil_editNameHint">Ton prénom</string>
+    
+    <string name="frag_choixprofil_econome">Econome</string>
+    <string name="frag_choixprofil_fat">Fat-Watcher</string>
+    <string name="frag_choixprofil_ecofriend">Eco-friendly</string>
+    <string name="frag_choixprofil_qualite">Qualité</string>
+    
+    <string name="frag_social_shareText">Donnez votre avis!</string>
+    <string name="frag_social_doShareButton">Partager</string>
+    
+    
+    <string name="frag_affinage">Dis moi ce que tu ne veux absolument pas manger (allergies, croyances):</string>
+    <string name="frag_affinage_valid">Valider</string>
+    <string name="enter_ingredient">ingrédient&#8230;</string>
+    <string name="frag_affinage_no_ingredient">Aucun Ingrédient</string>
+
+    <string name="explanations_results_screen">Les informations sont ordonnées suivants ton profil. Pour revenir au scanner tu peux secouer ton téléphone, ou appuyer sur le bouton retour.</string>
+    <string name="frag_social_title">Social</string>
+    <string name="frag_main_title">Mon Profil</string>
+    <string name="frag_health_title">Plus</string>
+    
+    <string name="attention_ingredient">Attention!</string>
+	<string name="retour_scan">Retour</string>
+	<string name="forward_product_forbidden">Voir le produit</string>
+	
+	<string name="sorry_no_product">Désolé, produit inconnu.</string>
+	
+	<string name="option_historique">Historique</string>
+	<string name="option_profil">Profil</string>
+	<string name="option_new_scan">Nouveau Scan</string>
+	
+	<string name="mon_profil_title">Mon Profil</string>
+	<string name="options_change_name">Prénom:</string>
+	<string name="options_change_profil">Profil:</string>
+	<string name="options_change_ingredients">Ingrédients:</string>
+
+	<string name="button_back">lol</string>
+	<string name="frag_healt_voirAllLabel">Voir tous les labels</string>
+	<string name="frag_healt_voirAllIngredient">Voir tous les ingrédients</string>
+  	<string name="button_done">lol</string>
+  	<string name="button_historique">Historique</string>
+  	<string name="msg_default_status">Placer un code barre</string>
+  	<string name="msg_camera_framework_bug">Sorry, the Android camera encountered a problem. You may need to restart the device.</string>
+  	<string name="button_ok">OK</string>
+  	<string name="button_history">Retour</string>
+  	<string name="zxing_url">http://code.google.com/p/zxing</string>
+  	<string name="history_title">Historique</string>
+  	<string name="sorry_no_history">Désolé, l\'historique est vide</string>
+  	
+  	<string name="socialTextToShare"> </string>
+  	<string name="socialShareButton"> </string>
+  	<string name="commentList"> </string>
+
+  	<string name="explicationIngredientRouge">En rouge les ingrédients déconseillés </string>
+
+  	<string name="listeVide">Aucun element </string>
+  	
+  	
+    
+</resources>

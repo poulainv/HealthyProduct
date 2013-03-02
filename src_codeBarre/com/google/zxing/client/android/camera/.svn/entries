@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="http://subversion.assembla.com/svn/healthyproduct"
+   revision="57"
+   last-author="maxoudela"
+   uuid="a35957e5-eb71-4bc1-af2d-79585cc7c74f"
+   url="http://subversion.assembla.com/svn/healthyproduct/trunk/src_codeBarre/com/google/zxing/client/android/camera"
+   committed-rev="32"
+   kind="dir"
+   committed-date="2012-05-21T13:28:57.504689Z"/>
+<entry
+   name="AutoFocusCallback.java"
+   checksum="0cf18ddfbed44af2710a5cc2051f42b7"
+   last-author="maxoudela"
+   text-time="2012-05-21T13:28:57.000000Z"
+   committed-rev="32"
+   kind="file"
+   committed-date="2012-05-21T13:28:57.504689Z"/>
+<entry
+   name="CameraConfigurationManager.java"
+   checksum="169577d04c42e4a4a52a1bb2e1c32023"
+   last-author="maxoudela"
+   text-time="2012-05-21T13:28:57.000000Z"
+   committed-rev="32"
+   kind="file"
+   committed-date="2012-05-21T13:28:57.504689Z"/>
+<entry
+   name="CameraManager.java"
+   checksum="b4fd34e3d4105d0e9551863e593c7f1e"
+   last-author="maxoudela"
+   text-time="2012-05-21T13:28:57.000000Z"
+   committed-rev="32"
+   kind="file"
+   committed-date="2012-05-21T13:28:57.504689Z"/>
+<entry
+   name="PreviewCallback.java"
+   checksum="c690380b60d3850b265461f4e6001b36"
+   last-author="maxoudela"
+   text-time="2012-05-21T13:28:57.000000Z"
+   committed-rev="32"
+   kind="file"
+   committed-date="2012-05-21T13:28:57.504689Z"/>
+</wc-entries>

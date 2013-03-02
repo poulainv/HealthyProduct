@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Contient l'ensemble du texte de l'application - Traduction anglaise -->
+    
+    
+    <string name="app_name">HealthyProducts</string>
+    
+    <string name="hp_logo">HealthyProducts Logo</string>
+    
+    
+    
+    <string name="first_use1">Activity qui ne s\'affiche qu\'au premier lancement</string>
+   
+    
+    
+    <string name="frag_social_title">Social</string>
+    <string name="frag_main_title">Mon Profil</string>
+    <string name="frag_health_title">Plus</string>
+
+    
+</resources>
